@@ -1,13 +1,9 @@
 package com.nacaroglu.dsa.practice._mixed;
 
-import java.util.HashMap;
-import java.util.HashSet;
 
 public class Arrays {
 
 	public static void main(String[] args) {
-		
-		HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
 		
 		
 
@@ -58,7 +54,6 @@ public class Arrays {
 			s++;
 		}
 
-		// write your code here
-		return resultArr; // make a new resultant array and return your results in that
+		return resultArr; // 
 	}
 }
