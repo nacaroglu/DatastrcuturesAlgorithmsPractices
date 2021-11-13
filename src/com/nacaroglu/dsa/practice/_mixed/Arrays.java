@@ -3,15 +3,11 @@ package com.nacaroglu.dsa.practice._mixed;
 
 public class Arrays {
 
-	public static void main(String[] args) {
-		
-		
-
+	public static void main(String[] args) {		
 		int[] arr1 = {1, 3, 4, 5};  
 		int[] arr2 = {2, 6, 7, 8};
 		
 		System.out.println(mergeArrays(arr1, arr2));
-
 	}
 
 	// merge arr1 and arr2 into a new result array
