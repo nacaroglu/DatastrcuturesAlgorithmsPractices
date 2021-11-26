@@ -1,0 +1,120 @@
+StudyPlan_Algorithm_3
+
+Day 1 - Binary Search
+1060. Missing Element in Sorted Array
+1901. Find a Peak Element II
+
+Day 2 - Binary Search
+1231. Divide Chocolate
+1182. Shortest Distance to Target Color
+
+Day 3 - Two Pointers
+1229. Meeting Scheduler
+287. Find the Duplicate Number
+
+Day 4 - Two Pointers
+42. Trapping Rain Water
+1868. Product of Two Run-Length Encoded Arrays
+
+Day 5 - Sliding Window
+159. Longest Substring with At Most Two Distinct Characters
+340. Longest Substring with At Most K Distinct Characters
+
+Day 6 - Sliding Window
+1004. Max Consecutive Ones III
+239. Sliding Window Maximum
+76. Minimum Window Substring
+
+Day 7 - Breadth-First Search / Depth-First Search
+286. Walls and Gates
+417. Pacific Atlantic Water Flow
+
+
+Day 8 - Breadth-First Search / Depth-First Search
+1469. Find All The Lonely Nodes
+582. Kill Process
+
+Day 9 - Breadth-First Search / Depth-First Search
+863. All Nodes Distance K in Binary Tree
+752. Open the Lock
+
+Day 10 - Breadth-First Search / Depth-First Search
+1319. Number of Operations to Make Network Connected
+1368. Minimum Cost to Make at Least One Valid Path in a Grid
+1192. Critical Connections in a Network 
+
+Day 11 - Recursion / Backtracking
+254. Factor Combinations
+394. Decode String
+
+Day 12 - Recursion / Backtracking
+51. N-Queens
+37. Sudoku Solver
+
+Day 13 - Recursion / Backtracking
+10. Regular Expression Matching
+241. Different Ways to Add Parentheses
+
+Day 14 - Recursion / Backtracking
+301. Remove Invalid Parentheses
+489. Robot Room Cleaner
+
+Day 15 - Divide and Conquer
+53. Maximum Subarray
+4. Median of Two Sorted Arrays
+315. Count of Smaller Numbers After Self
+
+Day 16 - Dynamic Programming
+309. Best Time to Buy and Sell Stock with Cooldown
+714. Best Time to Buy and Sell Stock with Transaction Fee
+
+Day 17 - Dynamic Programming
+410. Split Array Largest Sum
+337. House Robber III
+
+Day 18 - Dynamic Programming
+221. Maximal Square
+85. Maximal Rectangle
+
+Day 19 - Dynamic Programming
+486. Predict the Winner
+131. Palindrome Partitioning
+132. Palindrome Partitioning II
+
+Day 20 - Dynamic Programming
+416. Partition Equal Subset Sum
+983. Minimum Cost For Tickets
+
+Day 21 - Dynamic Programming
+123. Best Time to Buy and Sell Stock III
+174. Dungeon Game
+
+Day 22 - Topological Sort
+207. Course Schedule
+210. Course Schedule II
+
+Day 23 - Topological Sort
+310. Minimum Height Trees
+329. Longest Increasing Path in a Matrix
+
+Day 24 - Topological Sort
+
+1136. Parallel Courses 
+269. Alien Dictionary
+
+Day 25 - Bit Manipulation
+260. Single Number III
+864. Shortest Path to Get All Keys
+995. Minimum Number of K Consecutive Bit Flips
+
+Day 26 - Others
+1396. Design Underground System
+146. LRU Cache
+
+Day 27 - Others
+981. Time Based Key-Value Store
+715. Range Module
+460. LFU Cache
+
+
+
