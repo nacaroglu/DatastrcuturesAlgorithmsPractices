@@ -1,0 +1,119 @@
+Datastructures 3
+
+Day 1 - Array
+325. Maximum Size Subarray Sum Equals k
+1151. Minimum Swaps to Group All 1's Together
+
+Day 2 - Array
+1588. Sum of All Odd Length Subarrays
+452. Minimum Number of Arrows to Burst Balloons
+
+Day 3 – Array
+128. Longest Consecutive Sequence
+454. 4Sum II
+448. Find All Numbers Disappeared in an Array
+
+Day 4 - String
+1427. Perform String Shifts
+409. Longest Palindrome
+
+Day 5 - String
+187. Repeated DNA Sequences
+5. Longest Palindromic Substring
+
+Day 6 - String
+44. Wildcard Matching
+214. Shortest Palindrome
+
+Day 7 - Linked List
+1634. Add Two Polynomials Represented as Linked Lists
+369. Plus One Linked List
+
+Day 8 - Linked List
+148. Sort List
+138. Copy List with Random Pointer
+430. Flatten a Multilevel Doubly Linked List
+
+Day 9 - Stack / Queue
+281. Zigzag Iterator
+394. Decode String
+
+Day 10 - Stack / Queue
+739. Daily Temperatures
+42. Trapping Rain Water
+
+Day 11 - Stack / Queue
+402. Remove K Digits
+456. 132 Pattern
+
+Day 12 - Stack / Queue
+84. Largest Rectangle in Histogram
+862. Shortest Subarray with Sum at Least K
+
+Day 13 - Tree
+1602. Find Nearest Right Node in Binary Tree
+1469. Find All The Lonely Nodes
+
+Day 14 - Tree
+1522. Diameter of N-Ary Tree
+337. House Robber III
+
+Day 15 - Tree
+1325. Delete Leaves With a Given Value
+366. Find Leaves of Binary Tree
+
+Day 16 - Tree
+124. Binary Tree Maximum Path Sum
+968. Binary Tree Cameras
+
+Day 17 - Graph / Union Find
+886. Possible Bipartition
+787. Cheapest Flights Within K Stops
+
+Day 18 - Graph / Union Find
+261. Graph Valid Tree
+547. Number of Provinces
+
+Day 19 - Graph / Union Find
+990. Satisfiability of Equality Equations
+1319. Number of Operations to Make Network Connected
+
+Day 20 - Graph / Union Find
+305. Number of Islands II
+1579. Remove Max Number of Edges to Keep Graph Fully Traversable
+
+Day 21- Graph / Union Find
+323. Number of Connected Components in an Undirected Graph
+1101. The Earliest Moment When Everyone Become Friends
+
+Day 22 - Priority Queue
+253. Meeting Rooms II
+23. Merge k Sorted Lists
+
+Day 23 - Priority Queue
+378. Kth Smallest Element in a Sorted Matrix
+295. Find Median from Data Stream
+
+Day 24 - Priority Queue
+
+358. Rearrange String k Distance Apart
+759. Employee Free Time
+218. The Skyline Problem
+
+Day 25 - Ordered Set
+1756. Design Most Recently Used Queue
+729. My Calendar I
+1606. Find Servers That Handled Most Number of Requests
+
+Day 26 - Prefix Tree
+208. Implement Trie (Prefix Tree)
+211. Design Add and Search Words Data Structure
+
+Day 27 - Prefix Tree
+1858. Longest Word With All Prefixes
+212. Word Search II
+
+Day 28 - Prefix Tree
+336. Palindrome Pairs
+642. Design Search Autocomplete System
+
